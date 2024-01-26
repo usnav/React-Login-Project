@@ -5,4 +5,6 @@
 --Create a Readme file 
 --Attach local project to created repository in github 
 
-In this project we will create a login which will reach out to an auth through redirection
+In this project we will create a login which will reach out to an auth through redirection.
+
+We will give it a simple, but user-friendly design
