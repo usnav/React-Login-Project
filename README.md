@@ -11,4 +11,6 @@ We will give it a simple, but user-friendly design.
 
 The colors in our mind are blue, purple, and green for front-end
 
-we will use hooks and components with our backend to be more smoothly running.
+We will use hooks and components with our backend to be more smoothly running.
+
+
