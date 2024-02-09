@@ -23,3 +23,4 @@ Goal 4: Create Home Page layout
 
 Goal 5: Create Additional Page layouts
 
+Goal 6: Create Login Page Layout
