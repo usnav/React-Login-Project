@@ -26,3 +26,7 @@ Goal 5: Create Additional Page layouts
 Goal 6: Create Login Page Layout
 
 2A - Database Access Functions
+
+2B - Middleware Functions
+
+
