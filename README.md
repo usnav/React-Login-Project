@@ -35,5 +35,7 @@ Goal 6: Create Login Page Layout
 
 Do not alter your package.json file except to install extra libraries or add extra scripts. Do not update existing libraries.
 
+Build a React application that implements components to register, login and view a list of users. Gotta keep sharpening your React skills.
+
 
 
