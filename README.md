@@ -29,4 +29,7 @@ Goal 6: Create Login Page Layout
 
 2B - Middleware Functions
 
+2C - Endpoints
+
+
 
