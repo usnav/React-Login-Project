@@ -7,7 +7,6 @@
 
 In this project we will create a login which will reach out to an auth through redirection.
 
-We will give it a simple, but user-friendly design.
 
 The colors in our mind are blue, purple, and green for front-end
 
