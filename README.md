@@ -36,5 +36,5 @@ Build a React application that implements components to register, login and view
 
 Make sure Auth0 is working properly.
 
-
+Add extensions.
 
