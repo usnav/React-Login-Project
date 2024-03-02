@@ -7,7 +7,6 @@
 In this project we will create a login which will reach out to an auth through redirection.
 
 
-
 We will use hooks and components with our backend to be more smoothly running.
 
 Goal 1: Create All component, folders, files, etc. 
@@ -30,7 +29,7 @@ Goal 6: Create Login Page Layout
 
 Do not alter your package.json file except to install extra libraries or add extra scripts. Do not update existing libraries.
 
-Build a React application that implements components to register, login and view a list of users. Gotta keep sharpening your React skills.
+Build a React application that implements components to register, login and view a list of users. 
 
 Make sure Auth0 is working properly.
 
