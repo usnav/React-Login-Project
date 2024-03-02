@@ -8,7 +8,6 @@
 In this project we will create a login which will reach out to an auth through redirection.
 
 
-The colors in our mind are blue, purple, and green for front-end
 
 We will use hooks and components with our backend to be more smoothly running.
 
