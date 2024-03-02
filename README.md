@@ -36,3 +36,5 @@ Make sure Auth0 is working properly.
 
 Add extensions.
 
+Run Tests. 
+
