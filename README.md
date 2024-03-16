@@ -28,7 +28,7 @@ Do not alter your package.json file except to install extra libraries or add ext
 
 Build a React application that implements components to register, login and view a list of users. 
 
-Make sure Auth0 is working properly.
+
 
 
 
