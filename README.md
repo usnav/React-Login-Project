@@ -17,7 +17,7 @@ Goal 4: Create Home Page layout
 Goal 5: Create Additional Page layouts
 
 
-2A - Database Access Functions
+
 
 
 
