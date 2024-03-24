@@ -23,7 +23,7 @@ Goal 5: Create Additional Page layouts
 
 
 
-Do not alter your package.json file except to install extra libraries or add extra scripts. 
+
 
 
 
