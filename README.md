@@ -12,7 +12,6 @@ Goal 2: Create CSS and HTML layout and designs.
 
 Goal 3: Add media layout for browser, tablet, and mobile
 
-Goal 4: Create Home 
 
 
 
