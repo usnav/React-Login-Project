@@ -14,7 +14,7 @@ Goal 3: Add media layout for browser, tablet, and mobile
 
 Goal 4: Create Home Page layout
 
-Goal 5: Create Additional Page layouts
+Goal 5: Create 
 
 
 
