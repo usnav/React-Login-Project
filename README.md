@@ -11,6 +11,9 @@ We will use hooks and components with our backend to be more smoothly running.
 Goal 1: Create All component, folders, files, etc. 
 
 
+Goal 2: Create CSS and HTML layout and designs. 
+
+
 
 
 
